@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Marques Santana — terminal</title>
+  <desc id="desc">Janela inspirada no terminal do macOS. Gabriel Marques Santana, desenvolvedor backend. Foco em arquitetura, confiabilidade e segurança.</desc>
+  <rect x="1" y="1" width="998" height="428" rx="16" fill="#14171D" stroke="#343B47" stroke-width="2"/>
+  <path d="M17 2H983A15 15 0 0 1 998 17V54H2V17A15 15 0 0 1 17 2Z" fill="#22262E"/>
+  <path d="M2 54H998" stroke="#343B47"/>
+  <circle cx="28" cy="28" r="7" fill="#FF5F57"/>
+  <circle cx="52" cy="28" r="7" fill="#FEBC2E"/>
+  <circle cx="76" cy="28" r="7" fill="#28C840"/>
+  <g font-family="'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    <text x="500" y="33" text-anchor="middle" font-size="14" fill="#A9B1BF">gsantanaoffsec — zsh</text>
+    <text x="34" y="101" font-size="15" fill="#778395">~/github/profile</text>
+    <text x="34" y="145" font-size="20"><tspan fill="#80D4A4">❯</tspan><tspan dx="14" fill="#E6EAF0">whoami</tspan></text>
+    <text x="34" y="192" font-size="33" font-weight="700" letter-spacing="-1" fill="#F1F4F9">Gabriel Marques Santana</text>
+    <text x="35" y="224" font-size="18" fill="#8AB4F8">Backend Developer</text>
+    <text x="34" y="278" font-size="20"><tspan fill="#80D4A4">❯</tspan><tspan dx="14" fill="#E6EAF0">cat focus.txt</tspan></text>
+    <text x="35" y="314" font-size="18" fill="#B2BDCD">architecture / reliability / security</text>
+    <path d="M34 345H966" stroke="#2B323E"/>
+    <text x="34" y="388" font-size="19"><tspan fill="#80D4A4">gsantanaoffsec</tspan><tspan fill="#778395"> ~ %</tspan></text>
+    <rect x="260" y="371" width="10" height="21" rx="1" fill="#8AB4F8"/>
+    <text x="966" y="387" text-anchor="end" font-size="13" letter-spacing="2" fill="#778395">BACKEND · SYSTEMS · CODE</text>
+  </g>
+</svg>
