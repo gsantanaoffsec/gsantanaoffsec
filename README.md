@@ -1,32 +1,56 @@
-<p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal macOS: Gabriel Marques Santana — desenvolvimento backend, arquitetura, confiabilidade e segurança." />
-</p>
+<!-- Janela e comandos são uma apresentação visual, não um shell interativo. -->
+<img src="./assets/01-workspace.svg" width="100%" alt="Terminal macOS. Gabriel Marques Santana, backend developer. ls lista about, stack, projects, README.md, focus.txt e next.md." />
 
-### `01 / about`
+<details>
+<summary><code>open README.md</code> — índice do workspace</summary>
+
+```text
+~/profile
+├── about/
+│   └── me.md
+├── stack/
+│   ├── python/
+│   ├── git/
+│   └── github/
+├── projects/
+│   ├── API-BLOG/
+│   ├── web-crawler/
+│   └── email-finder/
+├── focus.txt
+└── next.md
+```
+
+</details>
+
+<img src="./assets/02-about.svg" width="100%" alt="cat about/me.md: desenvolvedor backend com atenção a arquitetura, confiabilidade e segurança. cat focus.txt: arquitetura de software, confiabilidade dos sistemas e segurança desde a construção." />
+
+<details>
+<summary><code>cat about/me.md</code> — versão em texto</summary>
 
 Sou **Gabriel Marques Santana**, desenvolvedor backend. Projeto e mantenho os sistemas por trás do produto, com atenção à **arquitetura, confiabilidade e segurança**.
 
-Por aqui, compartilho projetos de APIs, automação e exploração da web com Python.
+</details>
 
-### `02 / toolbox`
+<img src="./assets/03-projects.svg" width="100%" alt="ls stack: Python, Git e GitHub. find projects: API-BLOG, web-crawler e email-finder." />
 
-`Python` · `Git` · `GitHub`
+### `cd projects/`
 
-**Áreas de interesse**
-`Backend` · `APIs` · `Arquitetura de software` · `Segurança` · `Automação`
+[`./API-BLOG`](https://github.com/gsantanaoffsec/API-BLOG) — API de autores e postagens.  
+[`./web-crawler`](https://github.com/gsantanaoffsec/web-crawler) — Exploração de links e páginas web.  
+[`./email-finder`](https://github.com/gsantanaoffsec/email-finder) — Busca de e-mails em páginas web.
 
-<!-- Atualize a lista acima com as tecnologias que você usa atualmente. -->
+<details>
+<summary><code>cat stack/README.md</code> — ferramentas e foco</summary>
 
-### `03 / projects`
+**Ferramentas:** Python · Git · GitHub  
+**Foco:** Backend · APIs · Arquitetura de software · Segurança · Automação
 
-| Projeto | O que você encontra |
-| :--- | :--- |
-| [API-BLOG](https://github.com/gsantanaoffsec/API-BLOG) | API para autores e postagens. |
-| [web-crawler](https://github.com/gsantanaoffsec/web-crawler) | Exploração de links e requisições a páginas web. |
-| [email-finder](https://github.com/gsantanaoffsec/email-finder) | Busca de endereços de e-mail em páginas web. |
+</details>
 
-[Ver todos os repositórios →](https://github.com/gsantanaoffsec?tab=repositories)
+<img src="./assets/04-next.svg" width="100%" alt="touch next.md; printf Continue explorando para next.md; cat next.md: Continue explorando." />
 
----
-
-<p align="center"><code>gsantanaoffsec ~ %</code></p>
+<p align="center">
+  <a href="https://github.com/gsantanaoffsec?tab=repositories"><code>ls ~/repositories →</code></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/gsantanaoffsec?tab=stars"><code>cat ~/bookmarks →</code></a>
+</p>
